@@ -24,7 +24,7 @@ function Land() {
 THERE ARE ONLY 7 PLOTS REMAINING in this beautifully developing and serene community, a few minutes drive from Appolonia City.
 Rush now to secure a plot.
 Genuine titled lands, no litigation, expertly demarcated, access to utilities and amenities etc…
-Call us to book an appointment for site inspection today. Do not sleep on this offer.
+Call us to book an appointment for site inspection today . Do not sleep on this offer.
 Our payment terms are flexible.
 Documents are made ready in about 10working days after initial payment is made.
 Land acquisition with no stress, Get in touch for any further inquiries.
