@@ -117,7 +117,7 @@ function Page({onBuy}) {
             </select>
 
             <select value={rooms} onChange={(e) => setRooms(e.target.value)}>
-              <option value="Default">Select No. of Beds</option>
+              <option value="Default">Select Number of Beds</option>
               <option value="1">1</option>
               <option value="2">2</option>
               <option value="3">3</option>
