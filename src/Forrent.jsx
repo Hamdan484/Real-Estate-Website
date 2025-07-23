@@ -52,7 +52,7 @@ function Forrent({onBuy}) {
           <h1>THE BLOSSOMS</h1>
           <div className="line-content">
             <div className="line"></div>
-            <span>HAMDA</span>
+            <span>HAMDAN</span>
             <div className="line"></div>
           </div>
           <button>STUDIOUS BEDROOMS TRIPLEXES</button> <br />
